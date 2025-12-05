@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enhanced Quick Sort Visualizer
 
 This project visualizes the Quick Sort algorithm step-by-step with a clean, interactive interface.
@@ -23,3 +24,6 @@ python app.py
 - `README.md`
 - `requirements.txt`
 - `flowchart.mmd` — Mermaid diagram
+=======
+# quick_sort_visualizer
+>>>>>>> b154779b941f6da75affd6ea5b9cd7a6f1a0535a
