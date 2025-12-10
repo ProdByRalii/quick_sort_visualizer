@@ -43,7 +43,7 @@ Visualization
 Output
 - Display all recorded steps as visual bar-charts in sequence.
 
-##FlowChart:
+# FlowChart:
 
       ┌─────────────────────────────┐
       │ User inputs number list     │
