@@ -98,7 +98,9 @@ AI Level 4 (Chat GPT Ai) was used inside of this project
 Python Version: 3.12.11 UI Framework: Gradio
 
 Course information : CISC 121
-Prompts Used:
+
+I used AI level 4 to help me with this assignment, AI helpmed me code the application this includes the comments, algorithms, etc. AI also helped me download requirements for this assignment such as Gradio and python. 
+The prompts used are in the following PDF:
 
 [prompts for cisc 121 - app project.pdf](https://github.com/user-attachments/files/24067210/prompts.for.cisc.121.-.app.project.pdf)
 
