@@ -1,10 +1,10 @@
- Quick Sort Visualizer 
+ # Quick Sort Visualizer 
 
 
-# The reason I picked quick sort is because quick sort was the first ever sorting mechanism that I learned, Quick sort is the first sorting that I understood and implemented into my personal code, and I remember while trying to learn it I had to go through multiple videos to understand, therefore with this application, it may help someone in my situtaion in the future.
+The reason I picked quick sort is because quick sort was the first ever sorting mechanism that I learned, Quick sort is the first sorting that I understood and implemented into my personal code, and I remember while trying to learn it I had to go through multiple videos to understand, therefore with this application, it may help someone in my situtaion in the future.
 
 
-#### video/Example of app
+# video/Example of app
 
 
 https://github.com/user-attachments/assets/390a4fc2-09c3-443a-b1ed-6675bbd8c13c
