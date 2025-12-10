@@ -1,3 +1,4 @@
 gradio
 matplotlib
 Pillow
+Python 3.12.11 Compatible
